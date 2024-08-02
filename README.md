@@ -1,2 +1,2 @@
-# frontend-react-primeiros-passos-explorando-html-css-e-componentes
-Frontend Iniciante - Missão de Aprendizado: Explorando HTML, CSS e componentes em ReactJS.
+# Frontend - Iniciante - Missão de Aprendizado: Primeiros Passos com ReactJS
+Projeto da Missão de Aprendizado da profissão Dev Frontend JavaScript, nível Iniciante: Primeiros Passos com ReactJS.
